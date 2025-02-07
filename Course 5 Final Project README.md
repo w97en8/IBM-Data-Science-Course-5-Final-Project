@@ -1,7 +1,7 @@
 # IBM-Data-Science-Course-5-Final-Project
 This is the final project for Coursera Course 5: Analyzing Historical Stock/Revenue Data and Building a Dashboard.
 
-In this project, we are to take on the role of a data scientist working for an investment firm. The goal is to extract revenue and stock data for Tesla and Gamestop, and to build a dashboard that compares the price of the stock and the revenue.
+In this project, we are to take on the role of a data scientist working for an investment firm. The goal is to extract revenue and stock data for Tesla and Gamestop, and to build a dashboard that compares the price of the stock and revenue.
 
 The following criteria are covered in this project:
 1. Using pandas to import stock dataframes from Tesla and Gamestop
